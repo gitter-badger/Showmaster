@@ -1,0 +1,16 @@
+<template name="messagesList">
+	<div class="messages">
+		{{#each messages}}
+			{{> message}}
+		{{/each}}
+	</div>
+	<div class="actions">
+		<form class="form-inline">
+			<div class="form-group">
+				<label class="sr-only" for="message">Message</label>
+				<input autofocus type="text" name="message" class="form-control" style="width: 500px">
+				<button type="submit" class="btn btn-primary">Submit</button>
+			</div>
+		</form>
+	</div>
+</template>

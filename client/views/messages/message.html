@@ -1,0 +1,15 @@
+<template name="message">
+	<div class="panel panel-default">
+		<div class="panel-heading clearfix">
+			<time class="message__timestamp pull-right" datetime="{{timestamp}}">
+				{{timestampHuman}}
+			</time>
+			<div class="message__author pull-left panel-title">
+				{{author}}
+			</div>
+		</div>
+		<div class="message__body panel-body">
+			{{body}}
+		</div>
+	</div>
+</template>

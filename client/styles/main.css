@@ -1,0 +1,19 @@
+body {
+}
+
+* {
+	box-sizing: border-box;
+}
+
+.messages {
+	padding: 10px;
+	height: calc(100vh - 100px);
+	overflow: scroll;
+}
+
+.actions {
+	height: 100px;
+	padding: 10px;
+	background: #eee;
+	overflow: hidden;
+}

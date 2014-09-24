@@ -1,0 +1,17 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				".tern-port"
+			],
+			"folder_exclude_patterns":
+			[
+				".meteor"
+			],
+			"follow_symlinks": true,
+			"path": "."
+		}
+	]
+}

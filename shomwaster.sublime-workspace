@@ -1,0 +1,1350 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"yea",
+				"years"
+			],
+			[
+				"ye",
+				"yearsFuture"
+			],
+			[
+				"years",
+				"yearsFuture"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"isFav",
+				"isFavorite"
+			],
+			[
+				"content",
+				"content"
+			],
+			[
+				"total",
+				"totalPages"
+			],
+			[
+				"tot",
+				"totalCount"
+			],
+			[
+				"sort",
+				"sortBy"
+			],
+			[
+				"first",
+				"firstPage"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"tota",
+				"totalPages"
+			],
+			[
+				"sortOrder",
+				"sortOrderNext"
+			],
+			[
+				"sortOr",
+				"sortOrderNext"
+			],
+			[
+				"find",
+				"findBy"
+			],
+			[
+				"po",
+				"pos-r	position: relative;"
+			],
+			[
+				"dele",
+				"deleted-color"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"slot",
+				"slot-color"
+			],
+			[
+				"bacgkro",
+				"background-size"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"filter",
+				"filterBy"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"earp",
+				"earpiece"
+			],
+			[
+				"earpi",
+				"earpieceBlend"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"key",
+				"keydown	.keydown()"
+			],
+			[
+				"css",
+				"cssClassPrefix"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"magin-",
+				"margin-left"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"end",
+				"endDate"
+			],
+			[
+				"start",
+				"startDate"
+			],
+			[
+				"colo",
+				"color"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"socket",
+				"socket.io-parser  (variable)"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"endfor",
+				"endforeach  (keyword)"
+			],
+			[
+				"appe",
+				"append	.append()"
+			],
+			[
+				"masonry",
+				"masonryRoot"
+			],
+			[
+				"append",
+				"appendTo	.appendTo()"
+			],
+			[
+				"send_",
+				"send_header"
+			],
+			[
+				"cons",
+				"console.info"
+			],
+			[
+				"conso",
+				"console.log"
+			],
+			[
+				"set",
+				"setInterval"
+			],
+			[
+				"writeFile",
+				"fs.writeFile"
+			],
+			[
+				"backgro",
+				"background-size"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"argv",
+				"process.argv"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"brand-",
+				"brand-secondary"
+			],
+			[
+				"Brows",
+				"browserSync"
+			],
+			[
+				"count",
+				"counter-increment"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"scrollmag",
+				"scrollmagic"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"back-",
+				"background-size"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"consone",
+				"console.info"
+			],
+			[
+				"text-",
+				"text-indent"
+			],
+			[
+				"margn",
+				"margin-left"
+			],
+			[
+				"toggle",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"blurred",
+				"blurredHomeImage"
+			],
+			[
+				"scroll",
+				"scrollTop  (function)"
+			],
+			[
+				"winH",
+				"winHeight"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"windw",
+				"windowHeight"
+			],
+			[
+				"offs",
+				"offset	.offset"
+			],
+			[
+				"off",
+				"offset	.offset"
+			],
+			[
+				"remove",
+				"removeAttr	.removeAttr()"
+			],
+			[
+				"he",
+				"height  (function)"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"Largecrumb",
+				"Largecrumbs"
+			],
+			[
+				"module",
+				"module.exports"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"resi",
+				"resize	.resize"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"inner",
+				"innerHeight	.innerHeight"
+			],
+			[
+				"clea",
+				"clearTimeout"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"__",
+				"__dirname"
+			],
+			[
+				"anfem",
+				"anfema-neutral-soft"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"user",
+				"user_name"
+			],
+			[
+				"init",
+				"initialURL"
+			],
+			[
+				"curr",
+				"currentUrl"
+			],
+			[
+				"trans",
+				"transitionTo"
+			],
+			[
+				"inital",
+				"initialPop"
+			],
+			[
+				"anfema",
+				"anfema-gray"
+			],
+			[
+				"add",
+				"addClass	addClass"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"marg-",
+				"margin-top"
+			],
+			[
+				"offscree",
+				"offScreenOpen"
+			],
+			[
+				"anfema-",
+				"anfema-gray-dark"
+			],
+			[
+				"offc",
+				"offcanvas"
+			],
+			[
+				"anfe",
+				"anfema-gray-lighter"
+			],
+			[
+				"anfema-gray-lig",
+				"anfema-gray-light"
+			],
+			[
+				"anfema-gr",
+				"anfema-gray-lighter"
+			],
+			[
+				"webkit-",
+				"-webkit-appearance:   (property)"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"ima",
+				"imageLoaded"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"marin",
+				"margin-right"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"lis",
+				"list-item-border-color"
+			],
+			[
+				"anfema-gra",
+				"anfema-gray-lightest"
+			],
+			[
+				"pro",
+				"property"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"dom",
+				"domNodes"
+			],
+			[
+				"an",
+				"anfema-lavender"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"map",
+				"mapElement"
+			],
+			[
+				"page",
+				"pageLoad"
+			],
+			[
+				"dco",
+				"documentElement  (variable)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "client/main.html",
+			"settings":
+			{
+				"buffer_size": 12,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/main.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/.gitkeep",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"gi",
+				"Gist: Create Public Gist"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"gist",
+				"Gist: Create Private Gist"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"gis",
+				"Gist: Create Private Gist"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"comment",
+				"Toggle Comment"
+			],
+			[
+				"packl",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"pacl",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"wrap",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"format",
+				"Format Code"
+			],
+			[
+				"form",
+				"Format Code"
+			],
+			[
+				"markdon",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"jsh",
+				"JSHint"
+			],
+			[
+				"jshin",
+				"JSHint: Clear Annotations"
+			],
+			[
+				"js gu",
+				"JSHint: Set Plugin Options"
+			],
+			[
+				"jshint",
+				"JSHint"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 690.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/pichfl/Repositories/showmaster"
+	],
+	"file_history":
+	[
+		"/Users/pichfl/.zshrc",
+		"/Users/pichfl/Repositories/showmaster/.gitignore",
+		"/Users/pichfl/Repositories/showmaster/client/views/messages/messages_index/messages_index.html",
+		"/Users/pichfl/Repositories/showmaster/client/views/layouts/master_layout/master_layout.html",
+		"/Users/pichfl/Repositories/showmaster/.em/config.json",
+		"/Users/pichfl/Repositories/showmaster/client/app.html",
+		"/Users/pichfl/Repositories/staffpilot-demos/staffpilot-calendar/app/templates/components/sp-calendar-nav.hbs",
+		"/Users/pichfl/Repositories/staffpilot-demos/staffpilot-calendar/app/components/sp-calendar-nav.js",
+		"/Users/pichfl/Repositories/staffpilot-demos/staffpilot-calendar/app/templates/application.hbs",
+		"/Users/pichfl/Repositories/staffpilot-demos/staffpilot-calendar/app/controllers/application.js",
+		"/Users/pichfl/Repositories/staffpilot-demos/staffpilot-calendar/app/components/sp-calendar.js",
+		"/Users/pichfl/Repositories/staffpilot-demos/staffpilot-calendar/app/templates/components/sp-calendar.hbs",
+		"/Users/pichfl/Repositories/staffpilot-demos/staffpilot-calendar/app/components/.tern-port",
+		"/Users/pichfl/Repositories/staffpilot-demos/staffpilot-calendar/app/routes/application.js",
+		"/Users/pichfl/Repositories/staffpilot-office/office/app/styles/app.scss",
+		"/Users/pichfl/Repositories/staffpilot-office/office/.tern-project",
+		"/Users/pichfl/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/pichfl/Repositories/staffpilot-office/office/app/store.js",
+		"/Users/pichfl/Library/Application Support/Sublime Text 3/Packages/User/sublime-better-completion-setting.sublime-settings",
+		"/Users/pichfl/Library/Application Support/Sublime Text 3/Packages/Sublime-Better-Completion/sublime-better-completion-setting.sublime-settings",
+		"/Users/pichfl/Repositories/staffpilot-demos/staffpilot-calendar/app/app.js",
+		"/Users/pichfl/Repositories/anfema-site/app/styles/_variables.scss",
+		"/Users/pichfl/Repositories/staffpilot-office/office/app/styles/config/_colors.flat-ui.scss",
+		"/Users/pichfl/Repositories/staffpilot-office/office/app/styles/components/_sp.sortabletable.scss",
+		"/Users/pichfl/Repositories/staffpilot-office/office/app/templates/jobs/index.hbs",
+		"/Users/pichfl/Repositories/staffpilot-office/office/app/controllers/jobs/index.js",
+		"/Users/pichfl/Repositories/staffpilot-office/office/app/components/sp-favorite-button.js",
+		"/Users/pichfl/Repositories/staffpilot-office/office/app/templates/components/sp-favorite-button.hbs",
+		"/Users/pichfl/Repositories/staffpilot-office/office/bower_components/ember/ember.js",
+		"/Users/pichfl/Repositories/staffpilot-office/office/app/controllers/jobs/index_item.js",
+		"/Users/pichfl/Repositories/staffpilot-office/office/app/routes/jobs/index.js",
+		"/Users/pichfl/Repositories/staffpilot-office/office/app/controllers/jobs/job.js",
+		"/Users/pichfl/Repositories/staffpilot-office/office/app/routes/invoices/index.js",
+		"/Users/pichfl/Repositories/staffpilot-office/office/app/controllers/invoices/index.js",
+		"/Users/pichfl/Repositories/staffpilot-office/office/app/controllers/favorite-jobs.js",
+		"/Users/pichfl/Repositories/staffpilot-office/office/config/environment.js",
+		"/Users/pichfl/Repositories/staffpilot-office/office/app/mixins/paginatable-sortable.js",
+		"/Users/pichfl/Repositories/staffpilot-office/office/app/mixins/mixin_pagination_sort.js",
+		"/Users/pichfl/Repositories/staffpilot-office/office/app/templates/components/sp-table-paginatable-sortable.hbs",
+		"/Users/pichfl/Repositories/staffpilot-office/office/app/components/sp-table-paginatable-sortable.js",
+		"/Users/pichfl/Repositories/staffpilot-office/office/app/templates/invoices/index.hbs",
+		"/Users/pichfl/Repositories/staffpilot-office/office/app/routes/jobs/job.js",
+		"/Users/pichfl/Repositories/staffpilot-office/office/app/routes/invoices/invoice.js",
+		"/Users/pichfl/Repositories/staffpilot-office/office/app/routes/invoices/invoices_accepted.js",
+		"/Users/pichfl/Repositories/staffpilot-office/office/app/controllers/invoices/invoices_accepted.js",
+		"/Users/pichfl/Repositories/staffpilot-office/office/app/routes/invoices/invoices_declined.js",
+		"/Users/pichfl/Repositories/staffpilot-office/office/app/templates/invoices/invoice.hbs",
+		"/Users/pichfl/Repositories/staffpilot-office/office/app/styles/_styles.scss",
+		"/Users/pichfl/Repositories/staffpilot-office/office/app/styles/_layout-global.scss",
+		"/Users/pichfl/Repositories/thomarts-de/source/scripts/index.js",
+		"/Users/pichfl/Repositories/staffpilot-office/office/app/controllers/invoices/invoices_declined.js",
+		"/Users/pichfl/Repositories/staffpilot-office/table/app/controllers/application.js",
+		"/Users/pichfl/Repositories/staffpilot-office/office/app/styles/components/_sp.pagination.scss",
+		"/Users/pichfl/Repositories/staffpilot-office/office/app/models/invoice.js",
+		"/Users/pichfl/Repositories/staffpilot-office/office/app/routes/invoices.js",
+		"/Users/pichfl/Repositories/staffpilot-office/office/app/styles/_ss-pika.scss",
+		"/Users/pichfl/Repositories/staffpilot-office/table/config/environment.js",
+		"/Users/pichfl/Repositories/staffpilot-office/table/app/styles/components/_sp.pagination.scss",
+		"/Users/pichfl/Repositories/staffpilot-office/table/app/styles/config/_colors.flat-ui.scss",
+		"/Users/pichfl/Repositories/staffpilot-office/table/app/styles/app.scss",
+		"/Users/pichfl/Repositories/staffpilot-office/table/app/templates/components/sp-sortabletable.hbs",
+		"/Users/pichfl/Repositories/staffpilot-office/table/app/templates/application.hbs",
+		"/Users/pichfl/Repositories/staffpilot-office/table/app/components/sp-sortabletable.js",
+		"/Users/pichfl/Repositories/staffpilot-office/table/app/routes/application.js",
+		"/Users/pichfl/Repositories/staffpilot-office/table/app/styles/config/_font.ss-pika.scss",
+		"/Users/pichfl/Repositories/staffpilot-office/table/app/styles/components/_sp.sortabletable.scss",
+		"/Users/pichfl/Repositories/staffpilot-office/table/app/mixins/component-yield-context.js",
+		"/Users/pichfl/Repositories/staffpilot-office/table/app/mixins/paginate-sort.js",
+		"/Users/pichfl/Repositories/staffpilot-office/table/.editorconfig",
+		"/Users/pichfl/Repositories/staffpilot-office/office/Brocfile.js",
+		"/Users/pichfl/Repositories/staffpilot-office/office/app/styles/_flexbox.scss",
+		"/Users/pichfl/Repositories/staffpilot-office/office/app/index.html",
+		"/Users/pichfl/Repositories/staffpilot-office/office/app/app.js",
+		"/Users/pichfl/Repositories/rodenstock-beratung/GB/app/scripts/views/_slider_view.js",
+		"/Users/pichfl/Repositories/rodenstock-beratung/GB/app/templates/thickness.hbs",
+		"/Users/pichfl/Repositories/rodenstock-beratung/GB/app/scripts/controllers/thickness_controller.js",
+		"/Users/pichfl/Repositories/rodenstock-beratung/GB/app/scripts/views/thickness_view.js",
+		"/Users/pichfl/Repositories/rodenstock-beratung/GB/app/scripts/app.js",
+		"/Users/pichfl/Repositories/rodenstock-beratung/GB/app/scripts/fixtures.js",
+		"/Users/pichfl/Repositories/rodenstock-beratung/GB/app/scripts/store.js",
+		"/Users/pichfl/Repositories/rodenstock-beratung/GB/app/templates/_slider.hbs",
+		"/Users/pichfl/Repositories/rodenstock-beratung/GB/app/scripts/routes/thickness_route.js",
+		"/Users/pichfl/Repositories/rodenstock-beratung/GB/app/templates/progressive_lenses/perfection.hbs",
+		"/Users/pichfl/Repositories/rodenstock-beratung/GB/app/templates/progressive_lenses/superior.hbs",
+		"/Users/pichfl/Repositories/rodenstock-beratung/GB/app/templates/progressive_lenses/excellence.hbs",
+		"/Users/pichfl/Repositories/rodenstock-beratung/GB/app/templates/progressive_lenses.hbs",
+		"/Users/pichfl/Repositories/rodenstock-beratung/GB/app/styles/views/_progressive_lenses.scss",
+		"/Users/pichfl/Repositories/rodenstock-beratung/GB/app/scripts/controllers/progresseLenses_controller.js",
+		"/Users/pichfl/Repositories/rodenstock-beratung/GB/app/styles/_bootstrap.scss",
+		"/Users/pichfl/Repositories/rodenstock-beratung/GB/app/styles/_screen.scss",
+		"/Users/pichfl/Repositories/rodenstock-beratung/GB/app/styles/_fonts.scss",
+		"/Users/pichfl/Repositories/rodenstock-beratung/GB/app/scripts/views/_progressive_lenses_super_view.js",
+		"/Users/pichfl/Repositories/rodenstock-beratung/GB/app/scripts/views/progressive_lenses_excellence_view.js",
+		"/Users/pichfl/Repositories/rodenstock-beratung/GB/app/scripts/views/progressive_lenses_perfection_view.js",
+		"/Users/pichfl/Repositories/rodenstock-beratung/GB/app/scripts/views/progressive_lenses_superior_view.js",
+		"/Users/pichfl/Repositories/rodenstock-beratung/GB/app/scripts/controllers/application_controller.js",
+		"/Users/pichfl/Repositories/rodenstock-beratung/GB/app/scripts/views/home_dialog_view.js",
+		"/Users/pichfl/Repositories/rodenstock-beratung/GB/app/scripts/controllers/home_dialog_controller.js",
+		"/Users/pichfl/Repositories/rodenstock-beratung/GB/app/scripts/controllers/index_controller.js",
+		"/Users/pichfl/Repositories/rodenstock-beratung/GB/app/scripts/views/application_view.js",
+		"/Users/pichfl/Repositories/rodenstock-beratung/GB/app/scripts/translations/tr.js",
+		"/Users/pichfl/Repositories/rodenstock-beratung/GB/app/scripts/translations/ru.js",
+		"/Users/pichfl/Repositories/rodenstock-beratung/GB/app/templates/closure.hbs",
+		"/Users/pichfl/Repositories/rodenstock-beratung/GB/app/scripts/translations/de.js",
+		"/Users/pichfl/Repositories/rodenstock-beratung/GB/app/scripts/translations/dk.js",
+		"/Users/pichfl/Repositories/rodenstock-beratung/GB/app/scripts/translations/en.js",
+		"/Users/pichfl/Repositories/rodenstock-beratung/GB/app/scripts/translations/es.js",
+		"/Users/pichfl/Repositories/rodenstock-beratung/GB/app/scripts/translations/fr.js",
+		"/Users/pichfl/Repositories/rodenstock-beratung/GB/app/scripts/translations/it.js",
+		"/Users/pichfl/Repositories/rodenstock-beratung/GB/app/scripts/translations/nl.js",
+		"/Users/pichfl/Repositories/rodenstock-beratung/GB/app/scripts/translations/no.js",
+		"/Users/pichfl/Repositories/rodenstock-beratung/GB/app/scripts/translations/pl.js",
+		"/Users/pichfl/Repositories/rodenstock-beratung/GB/app/scripts/translations/se.js",
+		"/Users/pichfl/Repositories/rodenstock-beratung/GB/app/scripts/translations/sk.js",
+		"/Users/pichfl/Repositories/staffpilot-calendar/app/styles/_colors.flat-ui.scss",
+		"/Users/pichfl/Repositories/staffpilot-calendar/app/controllers/application.js",
+		"/Users/pichfl/Repositories/staffpilot-calendar/app/templates/components/sp-calendar.hbs",
+		"/Users/pichfl/Repositories/staffpilot-calendar/app/templates/application.hbs",
+		"/Users/pichfl/Repositories/staffpilot-calendar/app/routes/application.js",
+		"/Users/pichfl/Repositories/staffpilot-calendar/app/components/sp-calendar.js",
+		"/Users/pichfl/Repositories/staffpilot-calendar/bower_components/ember/ember-template-compiler.js",
+		"/Users/pichfl/Repositories/staffpilot-calendar/app/router.js",
+		"/Users/pichfl/Repositories/staffpilot-calendar/app/templates/components/sp-calendar-day.hbs",
+		"/Users/pichfl/Repositories/staffpilot-calendar/app/templates/components/sp-calendar-week.hbs",
+		"/Users/pichfl/Repositories/staffpilot-calendar/bower_components/ember/ember.js",
+		"/Users/pichfl/Repositories/staffpilot-calendar/.editorconfig",
+		"/Users/pichfl/.ssh/config",
+		"/Users/pichfl/Repositories/staffpilot-calendar/app/styles/app.scss"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+			"/Users/pichfl/Repositories/rodenstock-beratung/GB/app/scripts",
+			"/Users/pichfl/Repositories/rodenstock-beratung/GB/app/scripts/translations",
+			"/Users/pichfl/Repositories/rodenstock-beratung/GB/app",
+			"/Users/pichfl/Repositories/rodenstock-beratung/GB/app/translations",
+			"/Users/pichfl/Repositories/promotool.ember/app",
+			"/Users/pichfl/Repositories/anfema-site/app/assemble/helpers",
+			"/Users/pichfl/Repositories/anfema-site/app/styles",
+			"/Users/pichfl/Repositories/anfema-site/app/assemble/helpers",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"year",
+			"');",
+			"])\n",
+			"link-to",
+			"}),\n",
+			"items",
+			"limit",
+			"0px",
+			"sort",
+			"])\n",
+			"\\t",
+			"Multigressiv Ergo",
+			"translation",
+			"vegas",
+			"(\\w+)\\s2",
+			"Sport 2",
+			"MyView 2",
+			"Ergo 2",
+			"\"\n",
+			"Ergo 2",
+			"2",
+			"</sup> 2",
+			"exce",
+			"subtitl",
+			"sunListItem3",
+			"</sup> 2",
+			"\\s*;",
+			"weekdaysSplice",
+			"weekdaysSpliceweekdaysSplice",
+			"weekdayLabels",
+			"%);",
+			"ember-handlebars-compiler",
+			"console",
+			"replace:",
+			"Array",
+			".#{$calendar}__heading,\n%#{$calendar}__heading {\n    font-size: 11px;\n    line-height: 14px;\n}",
+			"locale",
+			"Impression Ergo<sup>®</sup> 2",
+			"Impression",
+			"11",
+			",\n		",
+			"solitaireEco",
+			"glasses",
+			"^.*\\.js",
+			"^*\\.js",
+			"appkit/",
+			"10px",
+			"900",
+			"();\n",
+			"({}).",
+			"item",
+			"true",
+			"isbef",
+			"console",
+			"rad",
+			"2",
+			"sven",
+			"name",
+			"_.",
+			"s",
+			"@import \"",
+			"});\n",
+			"_",
+			"});",
+			"World",
+			"nunj",
+			"var nunjucks = require('nunjucks');",
+			"'source-public",
+			"'!source-public",
+			"'./source-public/",
+			"'source-public/",
+			"./src/bower_components/",
+			"{};",
+			";\n",
+			"storedData",
+			"gutil",
+			"router",
+			"http",
+			"qfs",
+			"console",
+			"pfs",
+			"').",
+			"_",
+			"path",
+			"qfs",
+			"jpg",
+			"$col",
+			"browser-sync",
+			"lrserver",
+			"color(",
+			"255",
+			".ttf',",
+			"listen",
+			"form",
+			"browsersync",
+			"script",
+			"html",
+			"clean",
+			"browserSync",
+			"browserSyncInit",
+			"open",
+			"watch",
+			"streamify",
+			"cache",
+			"view",
+			"partial",
+			"$",
+			"saveLicense",
+			"bower",
+			"error",
+			"ls",
+			"OT",
+			"subl",
+			"sublim",
+			"7scene",
+			"source",
+			"offscreen",
+			"de-",
+			"de",
+			".icn-tw a {\n	background-image: url(img/icn-twitter.png);\n}",
+			"amatic",
+			"insans-semibolditalic-webfont', 400, italic);",
+			"50",
+			"\\s?\\,\\s?",
+			"\\s?\\,",
+			"\\s\\,\\s?",
+			"\\,\\s+$",
+			"\\,\\s?$"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\\n",
+			"$1",
+			"($1)",
+			"Sport",
+			"MyView",
+			"Ergo",
+			"</sup>",
+			";",
+			"Impression Ergo<sup>®</sup>",
+			",",
+			"@import \"../vendor/bourbon/dist/",
+			"sourcePublic + '/",
+			"'!' + sourcePublic + '/",
+			"sourcePublic + '/",
+			"./source/vendor/",
+			"pData",
+			"fs",
+			"$grid",
+			"',",
+			"plugins",
+			",",
+			"",
+			",",
+			"canvas",
+			"offsets",
+			"Supercrumbs",
+			"supercrumbs",
+			"'build'",
+			"url('assets/",
+			"toggleOffscreen",
+			"isOpen",
+			"isActive",
+			"is-current",
+			"'",
+			"\"",
+			"icon",
+			"<a href=\"app.html\">",
+			"apitastic",
+			"'",
+			"\n",
+			"### ",
+			"$sprites-logo_small",
+			"@include client",
+			"$clients",
+			"'",
+			"",
+			"$fontsize-btn"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "client/main.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12,
+								12
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "client/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Better JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "public/.gitkeep",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 108.0
+	},
+	"output.find_results":
+	{
+		"height": 143.0
+	},
+	"project": "shomwaster.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"models/job_appointment_cancellation.",
+				"app/models/job_appointment_cancellation.js"
+			],
+			[
+				"models/job_appointment_premium.js",
+				"app/models/job_appointment_premium.js"
+			],
+			[
+				"models/job_location.js",
+				"app/models/job_location.js"
+			],
+			[
+				"roulog",
+				"app/routes/login.js"
+			],
+			[
+				"routeunrea",
+				"app/routes/notifications/unread.js"
+			],
+			[
+				"serializers/application.js",
+				"app/serializers/application.js"
+			],
+			[
+				"store.j",
+				"app/store.js"
+			],
+			[
+				"pollin",
+				"app/utils/polling.js"
+			],
+			[
+				"temp_requirement_pair.js",
+				"app/utils/temp_requirement_pair.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 223.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
